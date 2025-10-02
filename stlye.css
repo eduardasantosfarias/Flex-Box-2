@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.flex-item-center{
+    display: flex;
+    justify-content: center;
+
+}
+
+.card{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    margin: 10px;
+    border-radius: 10px;
+    background: rgb(127, 233, 138);
+}
